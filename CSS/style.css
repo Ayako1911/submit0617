@@ -1,0 +1,39 @@
+li {
+  list-style: none;
+  float: right;
+  padding: 33px 20px;
+}
+
+.header {
+  color:blue;
+  font-weight: bold;
+  height: 90px;
+}
+
+.header-logo {
+  font-size: 36px;
+  float: left;
+  padding: 20px, 40px;
+}
+
+.main {
+}
+
+.main-logo {
+  padding-top: 250px;
+  width: 300px;
+  font-size: 50px;
+}
+
+.main-box {
+  width: 1000px;
+  height: 200px;
+  background: blue;
+}
+
+img {
+  position: absolute;
+  top: 120px;
+  right: 40px;
+  width: 40%;
+}
